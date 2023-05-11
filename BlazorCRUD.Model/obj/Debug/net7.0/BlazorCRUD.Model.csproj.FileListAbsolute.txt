@@ -1,0 +1,12 @@
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\bin\Debug\net7.0\BlazorCRUD.Model.deps.json
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\bin\Debug\net7.0\BlazorCRUD.Model.dll
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\bin\Debug\net7.0\BlazorCRUD.Model.pdb
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.csproj.AssemblyReference.cache
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.AssemblyInfoInputs.cache
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.AssemblyInfo.cs
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.dll
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\refint\BlazorCRUD.Model.dll
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\BlazorCRUD.Model.pdb
+C:\Users\Bauti\source\repos\BlazorCRUD.UI\BlazorCRUD.Model\obj\Debug\net7.0\ref\BlazorCRUD.Model.dll
